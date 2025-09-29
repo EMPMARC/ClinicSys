@@ -27,7 +27,7 @@
   },
   "scripts": {
      "predeploy": "npm run build",
-   "deploy": "gh-pages -b main -d build",
+   "deploy": "gh-pages -b gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -67,7 +67,7 @@
   "bugs": {
     "url": "https://github.com/EMPMARC/ClinicSys/issues"
   },
-  "homepage": "http://EMPMARC.github.io/ClinicSys",
+  "homepage": "https://EMPMARC.github.io/ClinicSys",
   "devDependencies": {
     "concurrently": "^9.2.1"
   }
