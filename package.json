@@ -27,7 +27,7 @@
   },
   "scripts": {
      "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+   "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -59,13 +59,13 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TshiamoMokgethwa/chwc-system.git"
+    "url": "git+https://github.com/EMPMARC/ClinicSys.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TshiamoMokgethwa/chwc-system/issues"
+    "url": "https://github.com/EMPMARC/ClinicSys/issues"
   },
   "homepage": "http://EMPMARC.github.io/ClinicSys",
   "devDependencies": {
