@@ -67,7 +67,7 @@
   "bugs": {
     "url": "https://github.com/TshiamoMokgethwa/chwc-system/issues"
   },
-  "homepage": "http://TshiamoMokgethwa.github.io/chwc-system",
+  "homepage": "http://EMPMARC.github.io/ClinicSys",
   "devDependencies": {
     "concurrently": "^9.2.1"
   }
